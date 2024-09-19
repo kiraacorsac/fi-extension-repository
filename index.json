@@ -1,0 +1,30 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "pigeons",
+      "name": "PIGEO'n'S",
+      "tagline": "Program to Interactively Grade and Evaluate Objects and Scenes",
+      "version": "1.0.0",
+      "type": "add-on",
+      "maintainer": "KiraaCorsac <wire150@gmail.com>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://github.com/kiraacorsac/PIGEOnS",
+      "permissions": {
+        "clipboard": "Copy tracebacks to clipboard for easier error reporting"
+      },
+      "tags": [
+        "System",
+        "Eductaion"
+      ],
+      "archive_url": "https://raw.githubusercontent.com/kiraacorsac/fi-extension-repository/refs/heads/main/pigeons-1.0.0.zip",
+      "archive_size": 881076,
+      "archive_hash": "sha256:4eb102407b22bb400d4e6918de75ba62358503892feb7979c543ca6a4b1a1aaa"
+    }
+  ]
+}
