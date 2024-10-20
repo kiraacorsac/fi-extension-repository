@@ -7,7 +7,7 @@
       "id": "pigeons",
       "name": "PIGEO'n'S",
       "tagline": "Program to Interactively Grade and Evaluate Objects and Scenes",
-      "version": "1.2.0",
+      "version": "1.3.1",
       "type": "add-on",
       "maintainer": "KiraaCorsac <wire150@gmail.com>",
       "license": [
@@ -22,9 +22,9 @@
         "System",
         "Eductaion"
       ],
-      "archive_url": "https://raw.githubusercontent.com/kiraacorsac/fi-extension-repository/refs/heads/main/pigeons-1.2.0.zip",
-      "archive_size": 1422479,
-      "archive_hash": "sha256:3bbfe473d776c61545e573945518d3c0fc13c71f3406f135536eccea85c282ed"
+      "archive_url": "https://raw.githubusercontent.com/kiraacorsac/fi-extension-repository/refs/heads/main/pigeons-1.3.1.zip",
+      "archive_size": 1421959,
+      "archive_hash": "sha256:9d39f89676583724a160674a7fa10fcf26cfc513d613c93d3dcf7ab3f0d2d596"
     }
   ]
 }
